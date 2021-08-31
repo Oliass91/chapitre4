@@ -1,0 +1,22 @@
+{
+  "name": "chapitre4",
+  "version": "1.0.0",
+  "description": "Exemple du chapitre 4 du cours programmation web 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oliass91/chapitre4.git"
+  },
+  "author": "Olivier Asselin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oliass91/chapitre4/issues"
+  },
+  "homepage": "https://github.com/Oliass91/chapitre4#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
